@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{ab as t,ac as s,ad as a}from"./index-bb6b028f.js";const c={},n=a("h3",{style:{display:"flex",width:"100vw",height:"100vh","justify-content":"center","align-items":"center","font-size":"xx-large"}}," Team ",-1),o=[n];function r(i,_){return t(),s("div",null,o)}const f=e(c,[["render",r]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{ab as t,ac as o,ad as s}from"./index-bb6b028f.js";const c={},n=s("h3",{style:{display:"flex",width:"100vw",height:"100vh","justify-content":"center","align-items":"center","font-size":"xx-large"}}," Profile ",-1),r=[n];function a(i,l){return t(),o("div",null,r)}const d=e(c,[["render",a]]);export{d as default};

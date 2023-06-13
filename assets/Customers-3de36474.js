@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{ab as t,ac as s}from"./index-bb6b028f.js";const o={},r={style:{display:"flex",width:"100vw",height:"100vh","justify-content":"center","align-items":"center","font-size":"xx-large"}};function c(n,a){return t(),s("h3",r," Customers ")}const f=e(o,[["render",c]]);export{f as default};
